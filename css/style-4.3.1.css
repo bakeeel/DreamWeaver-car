@@ -1,0 +1,20 @@
+
+
+.bgdark{
+	color: indianred;
+}
+.hr-color{
+	background-color: firebrick;
+	height: 0.1rem;
+	width: 77%;
+}
+.p-font{
+	font-weight: 600;
+	font-family: Baskerville, "Palatino Linotype",
+		Constantia, "Lucida Bright", "DejaVu Serif", Georgia, 
+		"serif""Century Schoolbook L", "Times New Roman", "serif";
+	  
+}
+.bo-3{
+ border: 3px #242020;
+}
